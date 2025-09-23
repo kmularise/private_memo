@@ -8,31 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a601c3da2a6c7e3c",
+            "id": "d01b8b08d0013156",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/coupon_participate.excalidraw.md"
+                "file": "work/쿼리 검증기 만들기.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "coupon_participate.excalidraw"
+              "icon": "lucide-file",
+              "title": "쿼리 검증기 만들기"
             }
           },
           {
-            "id": "b529c79e20713cf9",
+            "id": "517d6b537239499a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/coupon_participate.excalidraw.md"
+                "file": "work/주식 백오피스 회계 처리 시스템 개선.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "coupon_participate.excalidraw"
+              "icon": "lucide-file",
+              "title": "주식 백오피스 회계 처리 시스템 개선"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +181,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b529c79e20713cf9",
+  "active": "d01b8b08d0013156",
   "lastOpenFiles": [
+    "work/주식 백오피스 회계 처리 시스템 개선.md",
+    "work/쿼리 검증기 만들기.md",
+    "work/파일 업로드 메모리 문제.md",
     "Excalidraw/file_out_of_memory.excalidraw.md",
     "Excalidraw/coupon_participate.excalidraw.md",
+    "Untitled.md",
+    "work",
+    "project/Chatgpt 쿠폰 참여.md",
+    "project/쿠폰 참여.md",
+    "ci.cd/Gitlab CI CD by docker.md",
+    "ci.cd",
+    "memo/Welcome.md",
+    "project",
     "Excalidraw/test.excalidraw.md",
     "Excalidraw"
   ]
